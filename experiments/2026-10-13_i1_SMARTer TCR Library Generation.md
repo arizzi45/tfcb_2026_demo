@@ -25,3 +25,7 @@ See issue #1 for context.
 8. Incubated the reaction in a preheated thermal cycler at 42°C for 180 min, followed by 70°C for 10 min, then held at 4°C (overnight).
 
 ## Result
+
+![Tapestation gel showing size of PCR product](img/tapestation20261009.png)
+
+*Figure: Tapestation ran for samples for all timepoints for participants 64 and 68. Two libraries failed to genearte. Image produced by Alessandro Rizzi.*
