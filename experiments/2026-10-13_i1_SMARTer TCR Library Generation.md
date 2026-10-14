@@ -2,7 +2,7 @@
 
 2026-10-13
 
-See issue #1 for context.
+See [issue #1](https://github.com/arizzi45/tfcb_2026_demo/issues/1) for context.
 
 ## Reagents
 
